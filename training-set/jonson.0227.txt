@@ -1,0 +1,19 @@
+Any transcription of a 1910 edition of a Jacobean text will run into
+some minor problems, and "Bartholomew Fair" poses its own special set
+of challenges. The goal of the Everyman's Library edition was to
+create a readable text, but editorial standards have changed since it
+was first published. Certain words from the Folio were censored. For
+example, "t--" is substituted for "turd". The Everyman's Library
+edition frequently spells out words that are contractions in the
+Folio, for example, substituting _in_ for _i'_ and _have_ for _ha'_.
+The Folio includes many stage directions, but there are
+inconsistencies, errors, and apparent omissions. As a corrective, the
+editor of the 1910 edition added more stage directions than more
+recent editors would. In the Folio, stage directions are printed in
+the margins to indicate that the action happens during the dialogue,
+and some lines are printed to the right of others to indicate
+simultaneous dialogue, for example, during Nightingale's song in Act
+III. The 1910 edition prints the text without columns or margins.
+Consequently some stage directions were changed, and the dialogue is
+printed sequentially, making it harder for the reader to get a sense
+of the stage action.

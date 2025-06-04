@@ -1,0 +1,10 @@
+   TRUE: Thou shalt see how unjust thou art presently. Clerimont, say
+   it was Dauphine's plot.
+   [EXIT CLERIMONT.]
+   Trust me not, if the whole drift be not for thy good. There is a
+   carpet in the next room, put it on, with this scarf over thy face,
+   and a cushion on thy head, and be ready when I call Amorous.
+   Away!
+   [EXIT DAUP.]
+   John Daw!
+   [GOES TO DAW'S CLOSET AND BRINGS HIM OUT.]

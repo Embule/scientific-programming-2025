@@ -1,0 +1,15 @@
+Question 1
+- one operation in each loop n times
+O(n)
+
+Question 2
+- loop is run constant amount of times
+O(1)
+
+Question 3
+- nested loop
+O(n^2)
+
+Question 4
+- multiplying function with a constant
+3*O(n) = O(3n) = O(n)

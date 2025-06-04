@@ -1,0 +1,3 @@
+- p. 218: COKES. _So I heard them say!_--In keeping with the Folio,
+the text "So I heard them say!" is not italicized, and consequently
+the character title "Cokes" is italicized in the html-based files.

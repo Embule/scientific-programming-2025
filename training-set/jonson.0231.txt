@@ -1,0 +1,5 @@
+- p. 209: _Enter VAL, WHIT, HAGGISE, and BRISTLE._--Deleted "VAL" from
+the list of characters entering. In the Folio, Jonson usually lists at
+the beginning of a scene who is to speak in that scene and often uses
+these lists to indicate an entrance. This character was not listed at
+the beginning of this scene in the Folio and has no lines.
